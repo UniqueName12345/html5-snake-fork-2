@@ -1,5 +1,6 @@
 # A fork of JDStraughan's snake game with stuff "borrowed" from Google Snake
 
+The name should say it all.
 
 ## Installation
 
