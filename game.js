@@ -1,4 +1,5 @@
 var canvas = document.getElementById("the-game");
+var settings = document.getElementById("settings");
 var context = canvas.getContext("2d");
 var game, snake, food;
 
