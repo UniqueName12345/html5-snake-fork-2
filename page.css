@@ -2,6 +2,7 @@ article, aside, details, figcaption, figure, footer, header,
 hgroup, menu, nav, section { 
   display: block; 
 }
+
 body {
   background-color: #CCC;
 }
@@ -12,6 +13,11 @@ p {
   text-align: center;
 }
 canvas {
+  display: block;
+  margin: 0 auto;
+  background-color: #666;
+}
+settings {
   display: block;
   margin: 0 auto;
   background-color: #666;
